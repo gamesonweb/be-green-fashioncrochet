@@ -1,7 +1,6 @@
 # Fashion Crochet
-Venez découvrir une expérience de jeu unique et originale.
-Lien du jeu :
-Lien du code source :
+Lien vers notre Github : https://github.com/Gholab/Fashion-Crochet-
+Lien vers le jeu : https://gholab.github.io/Fashion-Crochet-/
 
 ## Participantes:
 Hajar El Gholabzouri
