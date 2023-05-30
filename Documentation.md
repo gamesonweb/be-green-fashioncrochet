@@ -1,10 +1,10 @@
 # Fashion Crochet 
 
-Bienvenue dans l’univers de **Fashion Crochet** : un jeu fun et fashion ! Ton but est de défiler avec un maximum de tenues possibles sur le podium pour devenir encore plus style. Nourris des moutons et récolte leur laine. Échange cette laine contre des vêtements faits en crochet puis défile comme une superstar.
+Bienvenue dans l’univers de **Fashion Crochet** : un jeu fun et fashion ! Ton but est de défiler avec un maximum de tenues possibles sur le podium pour devenir encore plus stylé. Nourris des moutons et récolte leur laine. Échange cette laine contre des vêtements faits en crochet puis défile comme une superstar.
 
 ## Habille-toi comme ton personnage !
 
-Si tu aimes les vêtements que porte ton personnage, saches que tu peux également les **acheter dans la vraie vie** via notre [compte Instagram](https://www.instagram.com/fashioncrochet_shop/). Tous les vêtements que nous proposons sont faits a la main par l’équipe de Fashion Crochet.
+Si tu aimes les vêtements que porte ton personnage, saches que tu peux également les **acheter dans la vraie vie** via notre [compte Instagram](https://www.instagram.com/fashioncrochet_shop/). Tous les vêtements que nous proposons sont faits à la main par l’équipe de Fashion Crochet.
 
 ## Be green 
 
@@ -14,19 +14,19 @@ De nos jours, l’industrie de la mode a un très grand impact sur l’environne
 ## Deroulement d'une partie 
 ### Comment jouer
 #### Version ordinateur
-Déplacez vous à l'aide des "zqsd" ou de "wasd"
+Déplacez vous à l'aide de "zqsd" ou de "wasd".
 Pour déplacer la caméra : cliquer une fois sur l'ecran et faire bouger la sourie. 
 
 
 #### Version mobile
-Déplacez vous à l'aide des fléches, cliquer une fois pour avancer dans une direction, recliquer pour vous arreter
+Déplacez vous à l'aide des flèches, cliquez une fois pour avancer dans une direction, recliquez pour vous arrêter.
 
-Cliquer simplement sur votre écran pour intéragire.
+Cliquez simplement sur votre écran pour intéragir.
 
 ### Obtenir de la laine 
 ![Alt text](/images/debut.png)
 
-Tout d’abord, direction la chambre du personnage pour jouer à des minis jeux. En gagnant au pendu ou au jeu du memory, tu gagneras des carottes, le snack préfère des moutons de ce jeu. Dirige-toi vers l’enclos et nourris les moutons en cliquant dessus. Tu peux apresant récolter de la laine sur les moutons en cliquant dessus une seconde fois.
+Tout d’abord, direction la chambre du personnage pour jouer à des minis jeux. En gagnant au pendu ou au jeu du memory, tu gagneras des carottes, le snack préféré des moutons de ce jeu. Dirige-toi vers l’enclos et nourris les moutons en cliquant dessus. Tu peux apresant récolter de la laine sur les moutons en cliquant dessus une seconde fois.
 ![Alt text](/images/sheep.png)
 
 
@@ -47,7 +47,7 @@ Pour recycler un vêtement, c’est tout simple. Dans le shop, appuie sur le bou
 
 Notre équipe est compose de Hajar El Gholabzouri, Gwendolyne Bouchard, et Amelie Muller. Nous sommes toutes les trois en deuxième année de prépa intégrée (Peip2) à Polytech Nice Sophia. Fashion Crochet est un jeu que nous avons conçu autour d’une passion commune : le crochet, que nous avons commencé ensemble l’année dernière.
 
-Nous avons toutes les trois commencé notre apprentissage de l’informatique l’année dernière. Ce projet est le plus grand projet que nous avons réalisé en informatique et il nous a permis de découvrir de nombreuses choses pour la première fois comme le développement web avec le langage TypeScript, le moteur 3D babylon.js, et le logiciel de modélisation 3D Blender. Nous avons donc tout du apprendre de façon autonome, ce qui nous a pris beaucoup de temps, mais permis d’énormément enrichir nos connaissances. Nous avons réalisé l’entièreté de jeu nous-même, dont tout le décor 3D, les vêtements du personnage, la cinématique, les minijeux… Afin que l’utilisateur puisse garder l’avancement du jeu, nous avons mis en place un local storage. Nous avons également réalisé une version mobile de notre jeu pour qu’il soit compatible avec différents types d’écrans. 
+Nous avons toutes les trois commencé notre apprentissage de l’informatique l’année dernière. Ce projet est le plus grand projet que nous ayons réalisé en informatique et il nous a permis de découvrir de nombreuses choses pour la première fois comme le développement web avec le langage TypeScript, le moteur 3D babylon.js, et le logiciel de modélisation 3D Blender. Nous avons donc tout du apprendre de façon autonome, ce qui nous a pris beaucoup de temps, mais permis d’énormément enrichir nos connaissances. Nous avons réalisé l’entièreté de jeu nous-même, dont tout le décor 3D, les vêtements du personnage, la cinématique, les minijeux… Afin que l’utilisateur puisse garder l’avancement du jeu, nous avons mis en place un local storage. Nous avons également réalisé une version mobile de notre jeu pour qu’il soit compatible avec différents types d’écrans. 
 
 
 ## Liens
