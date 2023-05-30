@@ -11,7 +11,7 @@ Si tu aimes les vêtements que porte ton personnage, saches que tu peux égaleme
 De nos jours, l’industrie de la mode a un très grand impact sur l’environnement. En effet, 2 % des émissions de gaz à effet de serre mondiales sont dues à la Fast Fashion, et ce chiffre pourrait atteindre les 26 % en 2050. C’est pour cela que nous avons décidé de mettre en avant le fait-main dans notre jeu. De plus, il est très facile de recycler des vêtements faits en crochet, tout simplement en réutilisant la laine dont ils sont composés. C’est pour cela que, comme dans la vraie vie, vous pouvez également recycler les vêtements de votre personnage dans notre jeu.
 
 
-## Deroulement d'une partie 
+## Déroulement d'une partie 
 ### Comment jouer
 #### Version ordinateur
 Déplacez-vous à l'aide de "zqsd" ou de "wasd".
