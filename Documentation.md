@@ -67,4 +67,4 @@ Nous avons toutes les trois commencé notre apprentissage de l’informatique l�
 
 - [Image Laine](https://www.flaticon.com/fr/icone-gratuite/pelote-de-laine_1650588?related_id=1650537&origin=search)
 
-- Personnage
+- [Personnage](https://free3d.com/fr/3d-model/girl-blind-703979.html)
