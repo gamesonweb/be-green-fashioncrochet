@@ -1,4 +1,4 @@
-# Fashion Crochet
+# :sheep: :recycle: Fashion Crochet 🏡 👚
 - [Notre jeu](https://gholab.github.io/Fashion-Crochet-/)
 - [Repo Github](https://github.com/Gholab/Fashion-Crochet-)
 - [Gameplay]()
