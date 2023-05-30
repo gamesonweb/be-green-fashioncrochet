@@ -12,6 +12,17 @@ De nos jours, l’industrie de la mode a un très grand impact sur l’environne
 
 
 ## Deroulement d'une partie 
+### Comment jouer
+#### Version ordinateur
+Déplacez vous à l'aide des "zqsd" ou de "wasd"
+Pour déplacer la caméra : cliquer une fois sur l'ecran et faire bouger la sourie. 
+
+
+#### Version mobile
+Déplacez vous à l'aide des fléches, cliquer une fois pour avancer dans une direction, recliquer pour vous arreter
+
+Cliquer simplement sur votre écran pour intéragire.
+
 ### Obtenir de la laine 
 ![Alt text](/images/debut.png)
 
