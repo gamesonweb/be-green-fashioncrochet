@@ -55,16 +55,16 @@ Nous avons toutes les trois commencé notre apprentissage de l’informatique l�
 ### [Video de presentation](https://www.youtube.com/watch?v=Qp6QuiFM4Bk)
 
 ### [Video de Gameplay]()
-#### Musiques
+### Sources
 - [Musique generale](https://pixabay.com/music/meditationspiritual-relaxing-birds-and-piano-music-137153/)
 
 - [Musique du Runway](https://pixabay.com/music/deep-house-deep-house-112301/)
 
 
-#### [Sound Effet Mouton](https://pixabay.com/sound-effects/sheep-122256/)
+- [Sound Effet Mouton](https://pixabay.com/sound-effects/sheep-122256/)
 
-#### [Image carotte ](https://www.flaticon.com/free-icon/carrot_5437585?related_id=5437591&origin=search)
+- [Image carotte ](https://www.flaticon.com/free-icon/carrot_5437585?related_id=5437591&origin=search)
 
-#### [Image Laine](https://www.flaticon.com/fr/icone-gratuite/pelote-de-laine_1650588?related_id=1650537&origin=search)
+- [Image Laine](https://www.flaticon.com/fr/icone-gratuite/pelote-de-laine_1650588?related_id=1650537&origin=search)
 
-#### Personnage
+- Personnage
