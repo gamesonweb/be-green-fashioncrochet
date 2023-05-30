@@ -8,18 +8,18 @@ Si tu aimes les vêtements que porte ton personnage, saches que tu peux égaleme
 
 ## Be green 
 
-De nos jours, l’industrie de la mode a un très grand impact sur l’environnement. En effet, 2 % des émissions de gaz à effet de serre mondiales sont dues à la Fast Fashion, et ce chiffre pourrait atteindre les 26 % en 2050. C’est pour cela que nous avons décidé de mettre en avant le fait-main dans notre jeu. De plus, il est très facile de recycler des vêtements fait en crochet, tout simplement en réutilisant la laine dont ils sont composés. C’est pour cela que, comme dans la vraie vie, vous pouvez également recycler les vêtements de votre personnage dans notre jeu.
+De nos jours, l’industrie de la mode a un très grand impact sur l’environnement. En effet, 2 % des émissions de gaz à effet de serre mondiales sont dues à la Fast Fashion, et ce chiffre pourrait atteindre les 26 % en 2050. C’est pour cela que nous avons décidé de mettre en avant le fait-main dans notre jeu. De plus, il est très facile de recycler des vêtements faits en crochet, tout simplement en réutilisant la laine dont ils sont composés. C’est pour cela que, comme dans la vraie vie, vous pouvez également recycler les vêtements de votre personnage dans notre jeu.
 
 
 ## Deroulement d'une partie 
 ### Comment jouer
 #### Version ordinateur
-Déplacez vous à l'aide de "zqsd" ou de "wasd".
-Pour déplacer la caméra : cliquer une fois sur l'ecran et faire bouger la sourie. 
+Déplacez-vous à l'aide de "zqsd" ou de "wasd".
+Pour déplacer la caméra : cliquez une fois sur l'écran et faites bouger la souris. 
 
 
 #### Version mobile
-Déplacez vous à l'aide des flèches, cliquez une fois pour avancer dans une direction, recliquez pour vous arrêter.
+Déplacez-vous à l'aide des flèches, cliquez une fois pour avancer dans une direction, recliquez pour vous arrêter.
 
 Cliquez simplement sur votre écran pour intéragir.
 
@@ -47,7 +47,7 @@ Pour recycler un vêtement, c’est tout simple. Dans le shop, appuie sur le bou
 
 Notre équipe est compose de Hajar El Gholabzouri, Gwendolyne Bouchard, et Amelie Muller. Nous sommes toutes les trois en deuxième année de prépa intégrée (Peip2) à Polytech Nice Sophia. Fashion Crochet est un jeu que nous avons conçu autour d’une passion commune : le crochet, que nous avons commencé ensemble l’année dernière.
 
-Nous avons toutes les trois commencé notre apprentissage de l’informatique l’année dernière. Ce projet est le plus grand projet que nous ayons réalisé en informatique et il nous a permis de découvrir de nombreuses choses pour la première fois comme le développement web avec le langage TypeScript, le moteur 3D babylon.js, et le logiciel de modélisation 3D Blender. Nous avons donc tout du apprendre de façon autonome, ce qui nous a pris beaucoup de temps, mais permis d’énormément enrichir nos connaissances. Nous avons réalisé l’entièreté de jeu nous-même, dont tout le décor 3D, les vêtements du personnage, la cinématique, les minijeux… Afin que l’utilisateur puisse garder l’avancement du jeu, nous avons mis en place un local storage. Nous avons également réalisé une version mobile de notre jeu pour qu’il soit compatible avec différents types d’écrans. 
+Nous avons toutes les trois commencé notre apprentissage de l’informatique l’année dernière. Ce projet est le plus grand projet que nous ayons réalisé en informatique et il nous a permis de découvrir de nombreuses choses pour la première fois comme le développement web avec le langage TypeScript, le moteur 3D babylon.js, et le logiciel de modélisation 3D Blender. Nous avons donc dû tout apprendre de façon autonome, ce qui nous a pris beaucoup de temps, mais permis d’énormément enrichir nos connaissances. Nous avons réalisé l’entièreté de jeu nous-même, dont tout le décor 3D, les vêtements du personnage, la cinématique, les minijeux… Afin que l’utilisateur puisse garder l’avancement du jeu, nous avons mis en place un local storage. Nous avons également réalisé une version mobile de notre jeu pour qu’il soit compatible avec différents types d’écrans. 
 
 
 ## Liens
